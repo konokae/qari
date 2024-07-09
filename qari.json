@@ -1,0 +1,3422 @@
+[
+    {
+        "id": "1",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/001.mp3"
+    },
+    {
+        "id": "2",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/002.mp3"
+    },
+    {
+        "id": "3",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/003.mp3"
+    },
+    {
+        "id": "4",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/004.mp3"
+    },
+    {
+        "id": "5",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/005.mp3"
+    },
+    {
+        "id": "6",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/006.mp3"
+    },
+    {
+        "id": "7",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/007.mp3"
+    },
+    {
+        "id": "8",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/008.mp3"
+    },
+    {
+        "id": "9",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/009.mp3"
+    },
+    {
+        "id": "10",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/010.mp3"
+    },
+    {
+        "id": "11",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/011.mp3"
+    },
+    {
+        "id": "12",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/012.mp3"
+    },
+    {
+        "id": "13",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/013.mp3"
+    },
+    {
+        "id": "14",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/014.mp3"
+    },
+    {
+        "id": "15",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/015.mp3"
+    },
+    {
+        "id": "16",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/016.mp3"
+    },
+    {
+        "id": "17",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/017.mp3"
+    },
+    {
+        "id": "18",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/018.mp3"
+    },
+    {
+        "id": "19",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/019.mp3"
+    },
+    {
+        "id": "20",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/020.mp3"
+    },
+    {
+        "id": "21",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/021.mp3"
+    },
+    {
+        "id": "22",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/022.mp3"
+    },
+    {
+        "id": "23",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/023.mp3"
+    },
+    {
+        "id": "24",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/024.mp3"
+    },
+    {
+        "id": "25",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/025.mp3"
+    },
+    {
+        "id": "26",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/026.mp3"
+    },
+    {
+        "id": "27",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/027.mp3"
+    },
+    {
+        "id": "28",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/028.mp3"
+    },
+    {
+        "id": "29",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/029.mp3"
+    },
+    {
+        "id": "30",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/030.mp3"
+    },
+    {
+        "id": "31",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/031.mp3"
+    },
+    {
+        "id": "32",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/032.mp3"
+    },
+    {
+        "id": "33",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/033.mp3"
+    },
+    {
+        "id": "34",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/034.mp3"
+    },
+    {
+        "id": "35",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/035.mp3"
+    },
+    {
+        "id": "36",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/036.mp3"
+    },
+    {
+        "id": "37",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/037.mp3"
+    },
+    {
+        "id": "38",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/038.mp3"
+    },
+    {
+        "id": "39",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/039.mp3"
+    },
+    {
+        "id": "40",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/040.mp3"
+    },
+    {
+        "id": "41",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/041.mp3"
+    },
+    {
+        "id": "42",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/042.mp3"
+    },
+    {
+        "id": "43",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/043.mp3"
+    },
+    {
+        "id": "44",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/044.mp3"
+    },
+    {
+        "id": "45",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/045.mp3"
+    },
+    {
+        "id": "46",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/046.mp3"
+    },
+    {
+        "id": "47",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/047.mp3"
+    },
+    {
+        "id": "48",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/048.mp3"
+    },
+    {
+        "id": "49",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/049.mp3"
+    },
+    {
+        "id": "50",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/050.mp3"
+    },
+    {
+        "id": "51",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/051.mp3"
+    },
+    {
+        "id": "52",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/052.mp3"
+    },
+    {
+        "id": "53",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/053.mp3"
+    },
+    {
+        "id": "54",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/054.mp3"
+    },
+    {
+        "id": "55",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/055.mp3"
+    },
+    {
+        "id": "56",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/056.mp3"
+    },
+    {
+        "id": "57",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/057.mp3"
+    },
+    {
+        "id": "58",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/058.mp3"
+    },
+    {
+        "id": "59",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/059.mp3"
+    },
+    {
+        "id": "60",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/060.mp3"
+    },
+    {
+        "id": "61",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/061.mp3"
+    },
+    {
+        "id": "62",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/062.mp3"
+    },
+    {
+        "id": "63",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/063.mp3"
+    },
+    {
+        "id": "64",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/064.mp3"
+    },
+    {
+        "id": "65",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/065.mp3"
+    },
+    {
+        "id": "66",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/066.mp3"
+    },
+    {
+        "id": "67",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/067.mp3"
+    },
+    {
+        "id": "68",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/068.mp3"
+    },
+    {
+        "id": "69",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/069.mp3"
+    },
+    {
+        "id": "70",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/070.mp3"
+    },
+    {
+        "id": "71",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/071.mp3"
+    },
+    {
+        "id": "72",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/072.mp3"
+    },
+    {
+        "id": "73",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/073.mp3"
+    },
+    {
+        "id": "74",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/074.mp3"
+    },
+    {
+        "id": "75",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/075.mp3"
+    },
+    {
+        "id": "76",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/076.mp3"
+    },
+    {
+        "id": "77",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/077.mp3"
+    },
+    {
+        "id": "78",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/078.mp3"
+    },
+    {
+        "id": "79",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/079.mp3"
+    },
+    {
+        "id": "80",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/080.mp3"
+    },
+    {
+        "id": "81",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/081.mp3"
+    },
+    {
+        "id": "82",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/082.mp3"
+    },
+    {
+        "id": "83",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/083.mp3"
+    },
+    {
+        "id": "84",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/084.mp3"
+    },
+    {
+        "id": "85",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/085.mp3"
+    },
+    {
+        "id": "86",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/086.mp3"
+    },
+    {
+        "id": "87",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/087.mp3"
+    },
+    {
+        "id": "88",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/088.mp3"
+    },
+    {
+        "id": "89",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/089.mp3"
+    },
+    {
+        "id": "90",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/090.mp3"
+    },
+    {
+        "id": "91",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/091.mp3"
+    },
+    {
+        "id": "92",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/092.mp3"
+    },
+    {
+        "id": "93",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/093.mp3"
+    },
+    {
+        "id": "94",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/094.mp3"
+    },
+    {
+        "id": "95",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/095.mp3"
+    },
+    {
+        "id": "96",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/096.mp3"
+    },
+    {
+        "id": "97",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/097.mp3"
+    },
+    {
+        "id": "98",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/098.mp3"
+    },
+    {
+        "id": "99",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/099.mp3"
+    },
+    {
+        "id": "100",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/100.mp3"
+    },
+    {
+        "id": "101",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/101.mp3"
+    },
+    {
+        "id": "102",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/102.mp3"
+    },
+    {
+        "id": "103",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/103.mp3"
+    },
+    {
+        "id": "104",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/104.mp3"
+    },
+    {
+        "id": "105",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/105.mp3"
+    },
+    {
+        "id": "106",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/106.mp3"
+    },
+    {
+        "id": "107",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/107.mp3"
+    },
+    {
+        "id": "108",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/108.mp3"
+    },
+    {
+        "id": "109",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/109.mp3"
+    },
+    {
+        "id": "110",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/110.mp3"
+    },
+    {
+        "id": "111",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/111.mp3"
+    },
+    {
+        "id": "112",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/112.mp3"
+    },
+    {
+        "id": "113",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/113.mp3"
+    },
+    {
+        "id": "114",
+        "qari": "Abdul basith abdul shamad",
+        "mp3": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/114.mp3"
+    },
+    {
+        "id": "1",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/001.mp3"
+    },
+    {
+        "id": "2",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/002.mp3"
+    },
+    {
+        "id": "3",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/003.mp3"
+    },
+    {
+        "id": "4",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/004.mp3"
+    },
+    {
+        "id": "5",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/005.mp3"
+    },
+    {
+        "id": "6",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/006.mp3"
+    },
+    {
+        "id": "7",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/007.mp3"
+    },
+    {
+        "id": "8",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/008.mp3"
+    },
+    {
+        "id": "9",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/009.mp3"
+    },
+    {
+        "id": "10",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/010.mp3"
+    },
+    {
+        "id": "11",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/011.mp3"
+    },
+    {
+        "id": "12",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/012.mp3"
+    },
+    {
+        "id": "13",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/013.mp3"
+    },
+    {
+        "id": "14",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/014.mp3"
+    },
+    {
+        "id": "15",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/015.mp3"
+    },
+    {
+        "id": "16",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/016.mp3"
+    },
+    {
+        "id": "17",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/017.mp3"
+    },
+    {
+        "id": "18",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/018.mp3"
+    },
+    {
+        "id": "19",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/019.mp3"
+    },
+    {
+        "id": "20",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/020.mp3"
+    },
+    {
+        "id": "21",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/021.mp3"
+    },
+    {
+        "id": "22",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/022.mp3"
+    },
+    {
+        "id": "23",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/023.mp3"
+    },
+    {
+        "id": "24",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/024.mp3"
+    },
+    {
+        "id": "25",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/025.mp3"
+    },
+    {
+        "id": "26",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/026.mp3"
+    },
+    {
+        "id": "27",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/027.mp3"
+    },
+    {
+        "id": "28",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/028.mp3"
+    },
+    {
+        "id": "29",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/029.mp3"
+    },
+    {
+        "id": "30",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/030.mp3"
+    },
+    {
+        "id": "31",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/031.mp3"
+    },
+    {
+        "id": "32",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/032.mp3"
+    },
+    {
+        "id": "33",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/033.mp3"
+    },
+    {
+        "id": "34",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/034.mp3"
+    },
+    {
+        "id": "35",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/035.mp3"
+    },
+    {
+        "id": "36",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/036.mp3"
+    },
+    {
+        "id": "37",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/037.mp3"
+    },
+    {
+        "id": "38",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/038.mp3"
+    },
+    {
+        "id": "39",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/039.mp3"
+    },
+    {
+        "id": "40",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/040.mp3"
+    },
+    {
+        "id": "41",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/041.mp3"
+    },
+    {
+        "id": "42",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/042.mp3"
+    },
+    {
+        "id": "43",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/043.mp3"
+    },
+    {
+        "id": "44",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/044.mp3"
+    },
+    {
+        "id": "45",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/045.mp3"
+    },
+    {
+        "id": "46",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/046.mp3"
+    },
+    {
+        "id": "47",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/047.mp3"
+    },
+    {
+        "id": "48",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/048.mp3"
+    },
+    {
+        "id": "49",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/049.mp3"
+    },
+    {
+        "id": "50",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/050.mp3"
+    },
+    {
+        "id": "51",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/051.mp3"
+    },
+    {
+        "id": "52",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/052.mp3"
+    },
+    {
+        "id": "53",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/053.mp3"
+    },
+    {
+        "id": "54",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/054.mp3"
+    },
+    {
+        "id": "55",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/055.mp3"
+    },
+    {
+        "id": "56",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/056.mp3"
+    },
+    {
+        "id": "57",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/057.mp3"
+    },
+    {
+        "id": "58",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/058.mp3"
+    },
+    {
+        "id": "59",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/059.mp3"
+    },
+    {
+        "id": "60",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/060.mp3"
+    },
+    {
+        "id": "61",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/061.mp3"
+    },
+    {
+        "id": "62",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/062.mp3"
+    },
+    {
+        "id": "63",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/063.mp3"
+    },
+    {
+        "id": "64",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/064.mp3"
+    },
+    {
+        "id": "65",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/065.mp3"
+    },
+    {
+        "id": "66",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/066.mp3"
+    },
+    {
+        "id": "67",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/067.mp3"
+    },
+    {
+        "id": "68",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/068.mp3"
+    },
+    {
+        "id": "69",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/069.mp3"
+    },
+    {
+        "id": "70",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/070.mp3"
+    },
+    {
+        "id": "71",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/071.mp3"
+    },
+    {
+        "id": "72",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/072.mp3"
+    },
+    {
+        "id": "73",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/073.mp3"
+    },
+    {
+        "id": "74",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/074.mp3"
+    },
+    {
+        "id": "75",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/075.mp3"
+    },
+    {
+        "id": "76",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/076.mp3"
+    },
+    {
+        "id": "77",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/077.mp3"
+    },
+    {
+        "id": "78",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/078.mp3"
+    },
+    {
+        "id": "79",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/079.mp3"
+    },
+    {
+        "id": "80",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/080.mp3"
+    },
+    {
+        "id": "81",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/081.mp3"
+    },
+    {
+        "id": "82",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/082.mp3"
+    },
+    {
+        "id": "83",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/083.mp3"
+    },
+    {
+        "id": "84",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/084.mp3"
+    },
+    {
+        "id": "85",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/085.mp3"
+    },
+    {
+        "id": "86",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/086.mp3"
+    },
+    {
+        "id": "87",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/087.mp3"
+    },
+    {
+        "id": "88",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/088.mp3"
+    },
+    {
+        "id": "89",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/089.mp3"
+    },
+    {
+        "id": "90",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/090.mp3"
+    },
+    {
+        "id": "91",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/091.mp3"
+    },
+    {
+        "id": "92",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/092.mp3"
+    },
+    {
+        "id": "93",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/093.mp3"
+    },
+    {
+        "id": "94",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/094.mp3"
+    },
+    {
+        "id": "95",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/095.mp3"
+    },
+    {
+        "id": "96",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/096.mp3"
+    },
+    {
+        "id": "97",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/097.mp3"
+    },
+    {
+        "id": "98",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/098.mp3"
+    },
+    {
+        "id": "99",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/099.mp3"
+    },
+    {
+        "id": "100",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/100.mp3"
+    },
+    {
+        "id": "101",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/101.mp3"
+    },
+    {
+        "id": "102",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/102.mp3"
+    },
+    {
+        "id": "103",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/103.mp3"
+    },
+    {
+        "id": "104",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/104.mp3"
+    },
+    {
+        "id": "105",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/105.mp3"
+    },
+    {
+        "id": "106",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/106.mp3"
+    },
+    {
+        "id": "107",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/107.mp3"
+    },
+    {
+        "id": "108",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/108.mp3"
+    },
+    {
+        "id": "109",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/109.mp3"
+    },
+    {
+        "id": "110",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/110.mp3"
+    },
+    {
+        "id": "111",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/111.mp3"
+    },
+    {
+        "id": "112",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/112.mp3"
+    },
+    {
+        "id": "113",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/113.mp3"
+    },
+    {
+        "id": "114",
+        "qari": "Abdul hadiy ahmad kanakiriy",
+        "mp3": "https://server6.mp3quran.net/kanakeri/114.mp3"
+    },
+    {
+        "id": "1",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/01.mp3"
+    },
+    {
+        "id": "2",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/02.mp3"
+    },
+    {
+        "id": "3",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/03.mp3"
+    },
+    {
+        "id": "4",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/04.mp3"
+    },
+    {
+        "id": "5",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/05.mp3"
+    },
+    {
+        "id": "6",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/06.mp3"
+    },
+    {
+        "id": "7",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/07.mp3"
+    },
+    {
+        "id": "8",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/08.mp3"
+    },
+    {
+        "id": "9",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/09.mp3"
+    },
+    {
+        "id": "10",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/10.mp3"
+    },
+    {
+        "id": "11",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/11.mp3"
+    },
+    {
+        "id": "12",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/12.mp3"
+    },
+    {
+        "id": "13",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/13.mp3"
+    },
+    {
+        "id": "14",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/14.mp3"
+    },
+    {
+        "id": "15",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/15.mp3"
+    },
+    {
+        "id": "16",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/16.mp3"
+    },
+    {
+        "id": "17",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/17.mp3"
+    },
+    {
+        "id": "18",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/18.mp3"
+    },
+    {
+        "id": "19",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/19.mp3"
+    },
+    {
+        "id": "20",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/20.mp3"
+    },
+    {
+        "id": "21",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/21.mp3"
+    },
+    {
+        "id": "22",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/22.mp3"
+    },
+    {
+        "id": "23",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/23.mp3"
+    },
+    {
+        "id": "24",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/24.mp3"
+    },
+    {
+        "id": "25",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/25.mp3"
+    },
+    {
+        "id": "26",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/26.mp3"
+    },
+    {
+        "id": "27",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/27.mp3"
+    },
+    {
+        "id": "28",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/28.mp3"
+    },
+    {
+        "id": "29",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/29.mp3"
+    },
+    {
+        "id": "30",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/30.mp3"
+    },
+    {
+        "id": "31",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/31.mp3"
+    },
+    {
+        "id": "32",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/32.mp3"
+    },
+    {
+        "id": "33",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/33.mp3"
+    },
+    {
+        "id": "34",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/34.mp3"
+    },
+    {
+        "id": "35",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/35.mp3"
+    },
+    {
+        "id": "36",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/36.mp3"
+    },
+    {
+        "id": "37",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/37.mp3"
+    },
+    {
+        "id": "38",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/38.mp3"
+    },
+    {
+        "id": "39",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/39.mp3"
+    },
+    {
+        "id": "40",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/40.mp3"
+    },
+    {
+        "id": "41",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/41.mp3"
+    },
+    {
+        "id": "42",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/42.mp3"
+    },
+    {
+        "id": "43",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/43.mp3"
+    },
+    {
+        "id": "44",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/44.mp3"
+    },
+    {
+        "id": "45",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/45.mp3"
+    },
+    {
+        "id": "46",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/46.mp3"
+    },
+    {
+        "id": "47",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/47.mp3"
+    },
+    {
+        "id": "48",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/48.mp3"
+    },
+    {
+        "id": "49",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/49.mp3"
+    },
+    {
+        "id": "50",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/50.mp3"
+    },
+    {
+        "id": "51",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/51.mp3"
+    },
+    {
+        "id": "52",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/52.mp3"
+    },
+    {
+        "id": "53",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/53.mp3"
+    },
+    {
+        "id": "54",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/54.mp3"
+    },
+    {
+        "id": "55",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/55.mp3"
+    },
+    {
+        "id": "56",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/56.mp3"
+    },
+    {
+        "id": "57",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/57.mp3"
+    },
+    {
+        "id": "58",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/58.mp3"
+    },
+    {
+        "id": "59",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/59.mp3"
+    },
+    {
+        "id": "60",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/60.mp3"
+    },
+    {
+        "id": "61",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/61.mp3"
+    },
+    {
+        "id": "62",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/62.mp3"
+    },
+    {
+        "id": "63",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/63.mp3"
+    },
+    {
+        "id": "64",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/64.mp3"
+    },
+    {
+        "id": "65",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/65.mp3"
+    },
+    {
+        "id": "66",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/66.mp3"
+    },
+    {
+        "id": "67",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/67.mp3"
+    },
+    {
+        "id": "68",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/68.mp3"
+    },
+    {
+        "id": "69",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/69.mp3"
+    },
+    {
+        "id": "70",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/70.mp3"
+    },
+    {
+        "id": "71",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/71.mp3"
+    },
+    {
+        "id": "72",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/72.mp3"
+    },
+    {
+        "id": "73",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/73.mp3"
+    },
+    {
+        "id": "74",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/74.mp3"
+    },
+    {
+        "id": "75",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/75.mp3"
+    },
+    {
+        "id": "76",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/76.mp3"
+    },
+    {
+        "id": "77",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/77.mp3"
+    },
+    {
+        "id": "78",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/78.mp3"
+    },
+    {
+        "id": "79",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/79.mp3"
+    },
+    {
+        "id": "80",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/80.mp3"
+    },
+    {
+        "id": "81",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/81.mp3"
+    },
+    {
+        "id": "82",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/82.mp3"
+    },
+    {
+        "id": "83",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/83.mp3"
+    },
+    {
+        "id": "84",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/84.mp3"
+    },
+    {
+        "id": "85",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/85.mp3"
+    },
+    {
+        "id": "86",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/86.mp3"
+    },
+    {
+        "id": "87",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/87.mp3"
+    },
+    {
+        "id": "88",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/88.mp3"
+    },
+    {
+        "id": "89",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/89.mp3"
+    },
+    {
+        "id": "90",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/90.mp3"
+    },
+    {
+        "id": "91",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/91.mp3"
+    },
+    {
+        "id": "92",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/92.mp3"
+    },
+    {
+        "id": "93",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/93.mp3"
+    },
+    {
+        "id": "94",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/94.mp3"
+    },
+    {
+        "id": "95",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/95.mp3"
+    },
+    {
+        "id": "96",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/96.mp3"
+    },
+    {
+        "id": "97",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/97.mp3"
+    },
+    {
+        "id": "98",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/98.mp3"
+    },
+    {
+        "id": "99",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/99.mp3"
+    },
+    {
+        "id": "100",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/100.mp3"
+    },
+    {
+        "id": "101",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/101.mp3"
+    },
+    {
+        "id": "102",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/102.mp3"
+    },
+    {
+        "id": "103",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/103.mp3"
+    },
+    {
+        "id": "104",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/104.mp3"
+    },
+    {
+        "id": "105",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/105.mp3"
+    },
+    {
+        "id": "106",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/106.mp3"
+    },
+    {
+        "id": "107",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/107.mp3"
+    },
+    {
+        "id": "108",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/108.mp3"
+    },
+    {
+        "id": "109",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/109.mp3"
+    },
+    {
+        "id": "110",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/110.mp3"
+    },
+    {
+        "id": "111",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/111.mp3"
+    },
+    {
+        "id": "112",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/112.mp3"
+    },
+    {
+        "id": "113",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/113.mp3"
+    },
+    {
+        "id": "114",
+        "qari": "Abdul muhsin al 'ubaikan",
+        "mp3": "https://server12.mp3quran.net/obk/114.mp3"
+    },
+    {
+        "id": "1",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/01.mp3"
+    },
+    {
+        "id": "2",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/02.mp3"
+    },
+    {
+        "id": "3",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/03.mp3"
+    },
+    {
+        "id": "4",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/04.mp3"
+    },
+    {
+        "id": "5",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/05.mp3"
+    },
+    {
+        "id": "6",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/06.mp3"
+    },
+    {
+        "id": "7",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/07.mp3"
+    },
+    {
+        "id": "8",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/08.mp3"
+    },
+    {
+        "id": "9",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/09.mp3"
+    },
+    {
+        "id": "10",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/10.mp3"
+    },
+    {
+        "id": "11",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/11.mp3"
+    },
+    {
+        "id": "12",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/12.mp3"
+    },
+    {
+        "id": "13",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/13.mp3"
+    },
+    {
+        "id": "14",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/14.mp3"
+    },
+    {
+        "id": "15",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/15.mp3"
+    },
+    {
+        "id": "16",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/16.mp3"
+    },
+    {
+        "id": "17",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/17.mp3"
+    },
+    {
+        "id": "18",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/18.mp3"
+    },
+    {
+        "id": "19",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/19.mp3"
+    },
+    {
+        "id": "20",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/20.mp3"
+    },
+    {
+        "id": "21",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/21.mp3"
+    },
+    {
+        "id": "22",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/22.mp3"
+    },
+    {
+        "id": "23",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/23.mp3"
+    },
+    {
+        "id": "24",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/24.mp3"
+    },
+    {
+        "id": "25",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/25.mp3"
+    },
+    {
+        "id": "26",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/26.mp3"
+    },
+    {
+        "id": "27",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/27.mp3"
+    },
+    {
+        "id": "28",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/28.mp3"
+    },
+    {
+        "id": "29",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/29.mp3"
+    },
+    {
+        "id": "30",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/30.mp3"
+    },
+    {
+        "id": "31",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/31.mp3"
+    },
+    {
+        "id": "32",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/32.mp3"
+    },
+    {
+        "id": "33",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/33.mp3"
+    },
+    {
+        "id": "34",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/34.mp3"
+    },
+    {
+        "id": "35",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/35.mp3"
+    },
+    {
+        "id": "36",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/36.mp3"
+    },
+    {
+        "id": "37",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/37.mp3"
+    },
+    {
+        "id": "38",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/38.mp3"
+    },
+    {
+        "id": "39",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/39.mp3"
+    },
+    {
+        "id": "40",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/40.mp3"
+    },
+    {
+        "id": "41",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/41.mp3"
+    },
+    {
+        "id": "42",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/42.mp3"
+    },
+    {
+        "id": "43",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/43.mp3"
+    },
+    {
+        "id": "44",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/44.mp3"
+    },
+    {
+        "id": "45",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/45.mp3"
+    },
+    {
+        "id": "46",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/46.mp3"
+    },
+    {
+        "id": "47",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/47.mp3"
+    },
+    {
+        "id": "48",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/48.mp3"
+    },
+    {
+        "id": "49",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/49.mp3"
+    },
+    {
+        "id": "50",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/50.mp3"
+    },
+    {
+        "id": "51",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/51.mp3"
+    },
+    {
+        "id": "52",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/52.mp3"
+    },
+    {
+        "id": "53",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/53.mp3"
+    },
+    {
+        "id": "54",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/54.mp3"
+    },
+    {
+        "id": "55",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/55.mp3"
+    },
+    {
+        "id": "56",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/56.mp3"
+    },
+    {
+        "id": "57",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/57.mp3"
+    },
+    {
+        "id": "58",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/58.mp3"
+    },
+    {
+        "id": "59",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/59.mp3"
+    },
+    {
+        "id": "60",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/60.mp3"
+    },
+    {
+        "id": "61",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/61.mp3"
+    },
+    {
+        "id": "62",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/62.mp3"
+    },
+    {
+        "id": "63",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/63.mp3"
+    },
+    {
+        "id": "64",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/64.mp3"
+    },
+    {
+        "id": "65",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/65.mp3"
+    },
+    {
+        "id": "66",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/66.mp3"
+    },
+    {
+        "id": "67",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/67.mp3"
+    },
+    {
+        "id": "68",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/68.mp3"
+    },
+    {
+        "id": "69",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/69.mp3"
+    },
+    {
+        "id": "70",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/70.mp3"
+    },
+    {
+        "id": "71",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/71.mp3"
+    },
+    {
+        "id": "72",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/72.mp3"
+    },
+    {
+        "id": "73",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/73.mp3"
+    },
+    {
+        "id": "74",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/74.mp3"
+    },
+    {
+        "id": "75",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/75.mp3"
+    },
+    {
+        "id": "76",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/76.mp3"
+    },
+    {
+        "id": "77",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/77.mp3"
+    },
+    {
+        "id": "78",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/78.mp3"
+    },
+    {
+        "id": "79",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/79.mp3"
+    },
+    {
+        "id": "80",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/80.mp3"
+    },
+    {
+        "id": "81",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/81.mp3"
+    },
+    {
+        "id": "82",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/82.mp3"
+    },
+    {
+        "id": "83",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/83.mp3"
+    },
+    {
+        "id": "84",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/84.mp3"
+    },
+    {
+        "id": "85",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/85.mp3"
+    },
+    {
+        "id": "86",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/86.mp3"
+    },
+    {
+        "id": "87",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/87.mp3"
+    },
+    {
+        "id": "88",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/88.mp3"
+    },
+    {
+        "id": "89",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/89.mp3"
+    },
+    {
+        "id": "90",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/90.mp3"
+    },
+    {
+        "id": "91",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/91.mp3"
+    },
+    {
+        "id": "92",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/92.mp3"
+    },
+    {
+        "id": "93",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/93.mp3"
+    },
+    {
+        "id": "94",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/94.mp3"
+    },
+    {
+        "id": "95",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/95.mp3"
+    },
+    {
+        "id": "96",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/96.mp3"
+    },
+    {
+        "id": "97",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/97.mp3"
+    },
+    {
+        "id": "98",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/98.mp3"
+    },
+    {
+        "id": "99",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/99.mp3"
+    },
+    {
+        "id": "100",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/100.mp3"
+    },
+    {
+        "id": "101",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/101.mp3"
+    },
+    {
+        "id": "102",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/102.mp3"
+    },
+    {
+        "id": "103",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/103.mp3"
+    },
+    {
+        "id": "104",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/104.mp3"
+    },
+    {
+        "id": "105",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/105.mp3"
+    },
+    {
+        "id": "106",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/106.mp3"
+    },
+    {
+        "id": "107",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/107.mp3"
+    },
+    {
+        "id": "108",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/108.mp3"
+    },
+    {
+        "id": "109",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/109.mp3"
+    },
+    {
+        "id": "110",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/110.mp3"
+    },
+    {
+        "id": "111",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/111.mp3"
+    },
+    {
+        "id": "112",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/112.mp3"
+    },
+    {
+        "id": "113",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/113.mp3"
+    },
+    {
+        "id": "114",
+        "qari": "Abdul muhsin al haritsiy",
+        "mp3": "https://server6.mp3quran.net/mohsin_harthi/114.mp3"
+    },
+    {
+        "id": "1",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/001.mp3"
+    },
+    {
+        "id": "2",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/002.mp3"
+    },
+    {
+        "id": "3",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/003.mp3"
+    },
+    {
+        "id": "4",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/004.mp3"
+    },
+    {
+        "id": "5",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/005.mp3"
+    },
+    {
+        "id": "6",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/006.mp3"
+    },
+    {
+        "id": "7",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/007.mp3"
+    },
+    {
+        "id": "8",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/008.mp3"
+    },
+    {
+        "id": "9",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/009.mp3"
+    },
+    {
+        "id": "10",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/010.mp3"
+    },
+    {
+        "id": "11",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/011.mp3"
+    },
+    {
+        "id": "12",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/012.mp3"
+    },
+    {
+        "id": "13",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/013.mp3"
+    },
+    {
+        "id": "14",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/014.mp3"
+    },
+    {
+        "id": "15",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/015.mp3"
+    },
+    {
+        "id": "16",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/016.mp3"
+    },
+    {
+        "id": "17",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/017.mp3"
+    },
+    {
+        "id": "18",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/018.mp3"
+    },
+    {
+        "id": "19",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/019.mp3"
+    },
+    {
+        "id": "20",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/020.mp3"
+    },
+    {
+        "id": "21",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/021.mp3"
+    },
+    {
+        "id": "22",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/022.mp3"
+    },
+    {
+        "id": "23",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/023.mp3"
+    },
+    {
+        "id": "24",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/024.mp3"
+    },
+    {
+        "id": "25",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/025.mp3"
+    },
+    {
+        "id": "26",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/026.mp3"
+    },
+    {
+        "id": "27",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/027.mp3"
+    },
+    {
+        "id": "28",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/028.mp3"
+    },
+    {
+        "id": "29",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/029.mp3"
+    },
+    {
+        "id": "30",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/030.mp3"
+    },
+    {
+        "id": "31",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/031.mp3"
+    },
+    {
+        "id": "32",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/032.mp3"
+    },
+    {
+        "id": "33",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/033.mp3"
+    },
+    {
+        "id": "34",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/034.mp3"
+    },
+    {
+        "id": "35",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/035.mp3"
+    },
+    {
+        "id": "36",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/036.mp3"
+    },
+    {
+        "id": "37",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/037.mp3"
+    },
+    {
+        "id": "38",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/038.mp3"
+    },
+    {
+        "id": "39",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/039.mp3"
+    },
+    {
+        "id": "40",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/040.mp3"
+    },
+    {
+        "id": "41",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/041.mp3"
+    },
+    {
+        "id": "42",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/042.mp3"
+    },
+    {
+        "id": "43",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/043.mp3"
+    },
+    {
+        "id": "44",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/044.mp3"
+    },
+    {
+        "id": "45",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/045.mp3"
+    },
+    {
+        "id": "46",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/046.mp3"
+    },
+    {
+        "id": "47",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/047.mp3"
+    },
+    {
+        "id": "48",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/048.mp3"
+    },
+    {
+        "id": "49",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/049.mp3"
+    },
+    {
+        "id": "50",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/050.mp3"
+    },
+    {
+        "id": "51",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/051.mp3"
+    },
+    {
+        "id": "52",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/052.mp3"
+    },
+    {
+        "id": "53",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/053.mp3"
+    },
+    {
+        "id": "54",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/054.mp3"
+    },
+    {
+        "id": "55",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/055.mp3"
+    },
+    {
+        "id": "56",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/056.mp3"
+    },
+    {
+        "id": "57",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/057.mp3"
+    },
+    {
+        "id": "58",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/058.mp3"
+    },
+    {
+        "id": "59",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/059.mp3"
+    },
+    {
+        "id": "60",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/060.mp3"
+    },
+    {
+        "id": "61",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/061.mp3"
+    },
+    {
+        "id": "62",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/062.mp3"
+    },
+    {
+        "id": "63",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/063.mp3"
+    },
+    {
+        "id": "64",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/064.mp3"
+    },
+    {
+        "id": "65",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/065.mp3"
+    },
+    {
+        "id": "66",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/066.mp3"
+    },
+    {
+        "id": "67",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/067.mp3"
+    },
+    {
+        "id": "68",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/068.mp3"
+    },
+    {
+        "id": "69",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/069.mp3"
+    },
+    {
+        "id": "70",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/070.mp3"
+    },
+    {
+        "id": "71",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/071.mp3"
+    },
+    {
+        "id": "72",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/072.mp3"
+    },
+    {
+        "id": "73",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/073.mp3"
+    },
+    {
+        "id": "74",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/074.mp3"
+    },
+    {
+        "id": "75",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/075.mp3"
+    },
+    {
+        "id": "76",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/076.mp3"
+    },
+    {
+        "id": "77",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/077.mp3"
+    },
+    {
+        "id": "78",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/078.mp3"
+    },
+    {
+        "id": "79",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/079.mp3"
+    },
+    {
+        "id": "80",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/080.mp3"
+    },
+    {
+        "id": "81",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/081.mp3"
+    },
+    {
+        "id": "82",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/082.mp3"
+    },
+    {
+        "id": "83",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/083.mp3"
+    },
+    {
+        "id": "84",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/084.mp3"
+    },
+    {
+        "id": "85",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/085.mp3"
+    },
+    {
+        "id": "86",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/086.mp3"
+    },
+    {
+        "id": "87",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/087.mp3"
+    },
+    {
+        "id": "88",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/088.mp3"
+    },
+    {
+        "id": "89",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/089.mp3"
+    },
+    {
+        "id": "90",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/090.mp3"
+    },
+    {
+        "id": "91",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/091.mp3"
+    },
+    {
+        "id": "92",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/092.mp3"
+    },
+    {
+        "id": "93",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/093.mp3"
+    },
+    {
+        "id": "94",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/094.mp3"
+    },
+    {
+        "id": "95",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/095.mp3"
+    },
+    {
+        "id": "96",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/096.mp3"
+    },
+    {
+        "id": "97",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/097.mp3"
+    },
+    {
+        "id": "98",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/098.mp3"
+    },
+    {
+        "id": "99",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/099.mp3"
+    },
+    {
+        "id": "100",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/100.mp3"
+    },
+    {
+        "id": "101",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/101.mp3"
+    },
+    {
+        "id": "102",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/102.mp3"
+    },
+    {
+        "id": "103",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/103.mp3"
+    },
+    {
+        "id": "104",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/104.mp3"
+    },
+    {
+        "id": "105",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/105.mp3"
+    },
+    {
+        "id": "106",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/106.mp3"
+    },
+    {
+        "id": "107",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/107.mp3"
+    },
+    {
+        "id": "108",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/108.mp3"
+    },
+    {
+        "id": "109",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/109.mp3"
+    },
+    {
+        "id": "110",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/110.mp3"
+    },
+    {
+        "id": "111",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/111.mp3"
+    },
+    {
+        "id": "112",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/112.mp3"
+    },
+    {
+        "id": "113",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/113.mp3"
+    },
+    {
+        "id": "114",
+        "qari": "Abdul muhsin al qasim",
+        "mp3": "https://server8.mp3quran.net/qasm/114.mp3"
+    },
+    {
+        "id": "1",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/001.mp3"
+    },
+    {
+        "id": "2",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/002.mp3"
+    },
+    {
+        "id": "3",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/003.mp3"
+    },
+    {
+        "id": "4",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/004.mp3"
+    },
+    {
+        "id": "5",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/005.mp3"
+    },
+    {
+        "id": "6",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/006.mp3"
+    },
+    {
+        "id": "7",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/007.mp3"
+    },
+    {
+        "id": "8",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/008.mp3"
+    },
+    {
+        "id": "9",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/009.mp3"
+    },
+    {
+        "id": "10",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/010.mp3"
+    },
+    {
+        "id": "11",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/011.mp3"
+    },
+    {
+        "id": "12",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/012.mp3"
+    },
+    {
+        "id": "13",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/013.mp3"
+    },
+    {
+        "id": "14",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/014.mp3"
+    },
+    {
+        "id": "15",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/015.mp3"
+    },
+    {
+        "id": "16",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/016.mp3"
+    },
+    {
+        "id": "17",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/017.mp3"
+    },
+    {
+        "id": "18",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/018.mp3"
+    },
+    {
+        "id": "19",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/019.mp3"
+    },
+    {
+        "id": "20",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/020.mp3"
+    },
+    {
+        "id": "21",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/021.mp3"
+    },
+    {
+        "id": "22",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/022.mp3"
+    },
+    {
+        "id": "23",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/023.mp3"
+    },
+    {
+        "id": "24",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/024.mp3"
+    },
+    {
+        "id": "25",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/025.mp3"
+    },
+    {
+        "id": "26",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/026.mp3"
+    },
+    {
+        "id": "27",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/027.mp3"
+    },
+    {
+        "id": "28",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/028.mp3"
+    },
+    {
+        "id": "29",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/029.mp3"
+    },
+    {
+        "id": "30",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/030.mp3"
+    },
+    {
+        "id": "31",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/031.mp3"
+    },
+    {
+        "id": "32",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/032.mp3"
+    },
+    {
+        "id": "33",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/033.mp3"
+    },
+    {
+        "id": "34",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/034.mp3"
+    },
+    {
+        "id": "35",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/035.mp3"
+    },
+    {
+        "id": "36",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/036.mp3"
+    },
+    {
+        "id": "37",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/037.mp3"
+    },
+    {
+        "id": "38",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/038.mp3"
+    },
+    {
+        "id": "39",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/039.mp3"
+    },
+    {
+        "id": "40",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/040.mp3"
+    },
+    {
+        "id": "41",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/041.mp3"
+    },
+    {
+        "id": "42",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/042.mp3"
+    },
+    {
+        "id": "43",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/043.mp3"
+    },
+    {
+        "id": "44",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/044.mp3"
+    },
+    {
+        "id": "45",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/045.mp3"
+    },
+    {
+        "id": "46",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/046.mp3"
+    },
+    {
+        "id": "47",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/047.mp3"
+    },
+    {
+        "id": "48",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/048.mp3"
+    },
+    {
+        "id": "49",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/049.mp3"
+    },
+    {
+        "id": "50",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/050.mp3"
+    },
+    {
+        "id": "51",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/051.mp3"
+    },
+    {
+        "id": "52",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/052.mp3"
+    },
+    {
+        "id": "53",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/053.mp3"
+    },
+    {
+        "id": "54",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/054.mp3"
+    },
+    {
+        "id": "55",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/055.mp3"
+    },
+    {
+        "id": "56",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/056.mp3"
+    },
+    {
+        "id": "57",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/057.mp3"
+    },
+    {
+        "id": "58",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/058.mp3"
+    },
+    {
+        "id": "59",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/059.mp3"
+    },
+    {
+        "id": "60",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/060.mp3"
+    },
+    {
+        "id": "61",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/061.mp3"
+    },
+    {
+        "id": "62",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/062.mp3"
+    },
+    {
+        "id": "63",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/063.mp3"
+    },
+    {
+        "id": "64",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/064.mp3"
+    },
+    {
+        "id": "65",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/065.mp3"
+    },
+    {
+        "id": "66",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/066.mp3"
+    },
+    {
+        "id": "67",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/067.mp3"
+    },
+    {
+        "id": "68",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/068.mp3"
+    },
+    {
+        "id": "69",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/069.mp3"
+    },
+    {
+        "id": "70",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/070.mp3"
+    },
+    {
+        "id": "71",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/071.mp3"
+    },
+    {
+        "id": "72",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/072.mp3"
+    },
+    {
+        "id": "73",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/073.mp3"
+    },
+    {
+        "id": "74",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/074.mp3"
+    },
+    {
+        "id": "75",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/075.mp3"
+    },
+    {
+        "id": "76",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/076.mp3"
+    },
+    {
+        "id": "77",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/077.mp3"
+    },
+    {
+        "id": "78",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/078.mp3"
+    },
+    {
+        "id": "79",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/079.mp3"
+    },
+    {
+        "id": "80",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/080.mp3"
+    },
+    {
+        "id": "81",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/081.mp3"
+    },
+    {
+        "id": "82",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/082.mp3"
+    },
+    {
+        "id": "83",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/083.mp3"
+    },
+    {
+        "id": "84",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/084.mp3"
+    },
+    {
+        "id": "85",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/085.mp3"
+    },
+    {
+        "id": "86",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/086.mp3"
+    },
+    {
+        "id": "87",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/087.mp3"
+    },
+    {
+        "id": "88",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/088.mp3"
+    },
+    {
+        "id": "89",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/089.mp3"
+    },
+    {
+        "id": "90",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/090.mp3"
+    },
+    {
+        "id": "91",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/091.mp3"
+    },
+    {
+        "id": "92",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/092.mp3"
+    },
+    {
+        "id": "93",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/093.mp3"
+    },
+    {
+        "id": "94",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/094.mp3"
+    },
+    {
+        "id": "95",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/095.mp3"
+    },
+    {
+        "id": "96",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/096.mp3"
+    },
+    {
+        "id": "97",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/097.mp3"
+    },
+    {
+        "id": "98",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/098.mp3"
+    },
+    {
+        "id": "99",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/099.mp3"
+    },
+    {
+        "id": "100",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/100.mp3"
+    },
+    {
+        "id": "101",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/101.mp3"
+    },
+    {
+        "id": "102",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/102.mp3"
+    },
+    {
+        "id": "103",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/103.mp3"
+    },
+    {
+        "id": "104",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/104.mp3"
+    },
+    {
+        "id": "105",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/105.mp3"
+    },
+    {
+        "id": "106",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/106.mp3"
+    },
+    {
+        "id": "107",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/107.mp3"
+    },
+    {
+        "id": "108",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/108.mp3"
+    },
+    {
+        "id": "109",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/109.mp3"
+    },
+    {
+        "id": "110",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/110.mp3"
+    },
+    {
+        "id": "111",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/111.mp3"
+    },
+    {
+        "id": "112",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/112.mp3"
+    },
+    {
+        "id": "113",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/113.mp3"
+    },
+    {
+        "id": "114",
+        "qari": "Abdul rahman as sudais",
+        "mp3": "https://server11.mp3quran.net/sds/114.mp3"
+    }
+]
