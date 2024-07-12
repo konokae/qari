@@ -1,0 +1,1028 @@
+[
+    {
+        "`index`": "1",
+        "`surah_indonesia`": "Surah Al-Fatihah",
+        "`surah_arab`": "الفاتحة",
+        "`arti`": "Pembukaan",
+        "`jumlah_ayat`": "7",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "5"
+    },
+    {
+        "`index`": "2",
+        "`surah_indonesia`": "Surah Al-Baqarah",
+        "`surah_arab`": "البقرة",
+        "`arti`": "Sapi Betina",
+        "`jumlah_ayat`": "286",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "87"
+    },
+    {
+        "`index`": "3",
+        "`surah_indonesia`": "Surah Ali `Imran",
+        "`surah_arab`": "آل عمران",
+        "`arti`": "Keluarga `Imran",
+        "`jumlah_ayat`": "200",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "89"
+    },
+    {
+        "`index`": "4",
+        "`surah_indonesia`": "Surah An-Nisa`",
+        "`surah_arab`": "النّساء",
+        "`arti`": "Wanita",
+        "`jumlah_ayat`": "176",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "92"
+    },
+    {
+        "`index`": "5",
+        "`surah_indonesia`": "Surah Al-Ma`idah",
+        "`surah_arab`": "المآئدة",
+        "`arti`": "Jamuan (hidangan makanan)",
+        "`jumlah_ayat`": "120",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "112"
+    },
+    {
+        "`index`": "6",
+        "`surah_indonesia`": "Surah Al-An`am",
+        "`surah_arab`": "الانعام",
+        "`arti`": "Binatang Ternak",
+        "`jumlah_ayat`": "165",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "55"
+    },
+    {
+        "`index`": "7",
+        "`surah_indonesia`": "Surah Al-A’raf",
+        "`surah_arab`": "الأعراف",
+        "`arti`": "Tempat yang tertinggi",
+        "`jumlah_ayat`": "206",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "39"
+    },
+    {
+        "`index`": "8",
+        "`surah_indonesia`": "Surah Al-Anfal",
+        "`surah_arab`": "الأنفال",
+        "`arti`": "Harta rampasan perang",
+        "`jumlah_ayat`": "75",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "88"
+    },
+    {
+        "`index`": "9",
+        "`surah_indonesia`": "Surah At-Taubah",
+        "`surah_arab`": "التوبة‎‎",
+        "`arti`": "Pengampunan",
+        "`jumlah_ayat`": "129",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "113"
+    },
+    {
+        "`index`": "10",
+        "`surah_indonesia`": "Surah Yunus",
+        "`surah_arab`": "ينوس",
+        "`arti`": "Nabi Yunus",
+        "`jumlah_ayat`": "109",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "51"
+    },
+    {
+        "`index`": "11",
+        "`surah_indonesia`": "Surah Hud",
+        "`surah_arab`": "هود",
+        "`arti`": "Nabi Hud",
+        "`jumlah_ayat`": "123",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "52"
+    },
+    {
+        "`index`": "12",
+        "`surah_indonesia`": "Surah Yusuf",
+        "`surah_arab`": "يسوف",
+        "`arti`": "Nabi Yusuf",
+        "`jumlah_ayat`": "111",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "53"
+    },
+    {
+        "`index`": "13",
+        "`surah_indonesia`": "Surah Ar-Ra’d",
+        "`surah_arab`": "الرّعد",
+        "`arti`": "Guruh (petir)",
+        "`jumlah_ayat`": "43",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "96"
+    },
+    {
+        "`index`": "14",
+        "`surah_indonesia`": "Surah Ibrahim",
+        "`surah_arab`": "إبراهيم",
+        "`arti`": "Nabi Ibrahim",
+        "`jumlah_ayat`": "52",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "72"
+    },
+    {
+        "`index`": "15",
+        "`surah_indonesia`": "Surah Al-Hijr",
+        "`surah_arab`": "الحجر",
+        "`arti`": "Al Hijr (nama gunung)",
+        "`jumlah_ayat`": "99",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "54"
+    },
+    {
+        "`index`": "16",
+        "`surah_indonesia`": "Surah An-Nahl",
+        "`surah_arab`": "النّحل",
+        "`arti`": "Lebah",
+        "`jumlah_ayat`": "128",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "70"
+    },
+    {
+        "`index`": "17",
+        "`surah_indonesia`": "Surah Al-Isra`",
+        "`surah_arab`": "الإسرا",
+        "`arti`": "Perjalanan Malam",
+        "`jumlah_ayat`": "111",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "50"
+    },
+    {
+        "`index`": "18",
+        "`surah_indonesia`": "Surah Al-Kahf",
+        "`surah_arab`": "الكهف",
+        "`arti`": "Penghuni-penghuni gua",
+        "`jumlah_ayat`": "110",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "69"
+    },
+    {
+        "`index`": "19",
+        "`surah_indonesia`": "Surah Maryam",
+        "`surah_arab`": "مريم",
+        "`arti`": "Maryam (Maria)",
+        "`jumlah_ayat`": "98",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "44"
+    },
+    {
+        "`index`": "20",
+        "`surah_indonesia`": "Surah Ta Ha",
+        "`surah_arab`": "طه",
+        "`arti`": "Ta Ha",
+        "`jumlah_ayat`": "135",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "45"
+    },
+    {
+        "`index`": "21",
+        "`surah_indonesia`": "Surah Al-Anbiya",
+        "`surah_arab`": "الأنبياء",
+        "`arti`": "Nabi-Nabi",
+        "`jumlah_ayat`": "112",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "73"
+    },
+    {
+        "`index`": "22",
+        "`surah_indonesia`": "Surah Al-Hajj",
+        "`surah_arab`": "الحجّ",
+        "`arti`": "Haji",
+        "`jumlah_ayat`": "78",
+        "`tempat_turun`": "Madinah & Makkah",
+        "`urutan_pewahyuan`": "103"
+    },
+    {
+        "`index`": "23",
+        "`surah_indonesia`": "Surah Al-Mu’minun",
+        "`surah_arab`": "المؤمنون",
+        "`arti`": "Orang-orang mukmin",
+        "`jumlah_ayat`": "118",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "74"
+    },
+    {
+        "`index`": "24",
+        "`surah_indonesia`": "Surah An-Nur",
+        "`surah_arab`": "النّور",
+        "`arti`": "Cahaya",
+        "`jumlah_ayat`": "64",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "102"
+    },
+    {
+        "`index`": "25",
+        "`surah_indonesia`": "Surah Al-Furqan",
+        "`surah_arab`": "الفرقان",
+        "`arti`": "Pembeda",
+        "`jumlah_ayat`": "77",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "42"
+    },
+    {
+        "`index`": "26",
+        "`surah_indonesia`": "Surah Asy-Syu`ara`",
+        "`surah_arab`": "الشّعراء",
+        "`arti`": "Penyair",
+        "`jumlah_ayat`": "227",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "47"
+    },
+    {
+        "`index`": "27",
+        "`surah_indonesia`": "Surah An-Naml",
+        "`surah_arab`": "النّمل",
+        "`arti`": "Semut",
+        "`jumlah_ayat`": "93",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "48"
+    },
+    {
+        "`index`": "28",
+        "`surah_indonesia`": "Surah Al-Qasas",
+        "`surah_arab`": "القصص",
+        "`arti`": "Cerita",
+        "`jumlah_ayat`": "88",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "49"
+    },
+    {
+        "`index`": "29",
+        "`surah_indonesia`": "Surah Al-`Ankabut",
+        "`surah_arab`": "العنكبوت",
+        "`arti`": "Laba-laba",
+        "`jumlah_ayat`": "69",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "85"
+    },
+    {
+        "`index`": "30",
+        "`surah_indonesia`": "Surah Ar-Rum",
+        "`surah_arab`": "الرّوم",
+        "`arti`": "Bangsa Romawi",
+        "`jumlah_ayat`": "60",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "84"
+    },
+    {
+        "`index`": "31",
+        "`surah_indonesia`": "Surah Luqman",
+        "`surah_arab`": "لقمان",
+        "`arti`": "Keluarga Luqman",
+        "`jumlah_ayat`": "34",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "57"
+    },
+    {
+        "`index`": "32",
+        "`surah_indonesia`": "Surah As-Sajdah",
+        "`surah_arab`": "السّجدة",
+        "`arti`": "Sajdah",
+        "`jumlah_ayat`": "30",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "75"
+    },
+    {
+        "`index`": "33",
+        "`surah_indonesia`": "Surah Al-Ahzab",
+        "`surah_arab`": "الْأحزاب",
+        "`arti`": "Golongan-Golongan yang bersekutu",
+        "`jumlah_ayat`": "73",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "90"
+    },
+    {
+        "`index`": "34",
+        "`surah_indonesia`": "Surah Saba’",
+        "`surah_arab`": "سبا",
+        "`arti`": "Kaum Saba`",
+        "`jumlah_ayat`": "54",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "58"
+    },
+    {
+        "`index`": "35",
+        "`surah_indonesia`": "Surah Fatir",
+        "`surah_arab`": "فاطر",
+        "`arti`": "Pencipta",
+        "`jumlah_ayat`": "45",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "43"
+    },
+    {
+        "`index`": "36",
+        "`surah_indonesia`": "Surah Ya Sin",
+        "`surah_arab`": "يس",
+        "`arti`": "Yaasiin",
+        "`jumlah_ayat`": "83",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "41"
+    },
+    {
+        "`index`": "37",
+        "`surah_indonesia`": "Surah As-Saffat",
+        "`surah_arab`": "الصّافات",
+        "`arti`": "Barisan-barisan",
+        "`jumlah_ayat`": "182",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "56"
+    },
+    {
+        "`index`": "38",
+        "`surah_indonesia`": "Surah Sad",
+        "`surah_arab`": "ص",
+        "`arti`": "Shaad",
+        "`jumlah_ayat`": "88",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "38"
+    },
+    {
+        "`index`": "39",
+        "`surah_indonesia`": "Surah Az-Zumar",
+        "`surah_arab`": "الزّمر",
+        "`arti`": "Rombongan-rombongan",
+        "`jumlah_ayat`": "75",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "59"
+    },
+    {
+        "`index`": "40",
+        "`surah_indonesia`": "Surah Al-Mu’min",
+        "`surah_arab`": "المؤمن",
+        "`arti`": "Orang yg Beriman",
+        "`jumlah_ayat`": "85",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "60"
+    },
+    {
+        "`index`": "41",
+        "`surah_indonesia`": "Surah Fussilat",
+        "`surah_arab`": "فصّلت",
+        "`arti`": "Yang dijelaskan",
+        "`jumlah_ayat`": "54",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "61"
+    },
+    {
+        "`index`": "42",
+        "`surah_indonesia`": "Surah Asy-Syura",
+        "`surah_arab`": "الشّورى",
+        "`arti`": "Musyawarah",
+        "`jumlah_ayat`": "53",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "62"
+    },
+    {
+        "`index`": "43",
+        "`surah_indonesia`": "Surah Az-Zukhruf",
+        "`surah_arab`": "الزّخرف",
+        "`arti`": "Perhiasan",
+        "`jumlah_ayat`": "89",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "63"
+    },
+    {
+        "`index`": "44",
+        "`surah_indonesia`": "Surah Ad-Dukhan",
+        "`surah_arab`": "الدّخان",
+        "`arti`": "Kabut",
+        "`jumlah_ayat`": "59",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "64"
+    },
+    {
+        "`index`": "45",
+        "`surah_indonesia`": "Surah Al-Jasiyah",
+        "`surah_arab`": "الجاثية",
+        "`arti`": "Yang bertekuk lutut",
+        "`jumlah_ayat`": "37",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "65"
+    },
+    {
+        "`index`": "46",
+        "`surah_indonesia`": "Surah Al-Ahqaf",
+        "`surah_arab`": "الَأحقاف",
+        "`arti`": "Bukit-bukit pasir",
+        "`jumlah_ayat`": "35",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "66"
+    },
+    {
+        "`index`": "47",
+        "`surah_indonesia`": "Surah Muhammad",
+        "`surah_arab`": "محمّد",
+        "`arti`": "Muhammad",
+        "`jumlah_ayat`": "38",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "95"
+    },
+    {
+        "`index`": "48",
+        "`surah_indonesia`": "Surah Al-Fath",
+        "`surah_arab`": "الفتح",
+        "`arti`": "Kemenangan",
+        "`jumlah_ayat`": "29",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "111"
+    },
+    {
+        "`index`": "49",
+        "`surah_indonesia`": "Surah Al-Hujurat",
+        "`surah_arab`": "الحجرات",
+        "`arti`": "Kamar-kamar",
+        "`jumlah_ayat`": "18",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "106"
+    },
+    {
+        "`index`": "50",
+        "`surah_indonesia`": "Surah Qaf",
+        "`surah_arab`": "ق",
+        "`arti`": "Qaaf",
+        "`jumlah_ayat`": "45",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "34"
+    },
+    {
+        "`index`": "51",
+        "`surah_indonesia`": "Surah Az-Zariyat",
+        "`surah_arab`": "الذّاريات",
+        "`arti`": "Angin yang menerbangkan",
+        "`jumlah_ayat`": "60",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "67"
+    },
+    {
+        "`index`": "52",
+        "`surah_indonesia`": "Surah At-Tur",
+        "`surah_arab`": "الطّور",
+        "`arti`": "Bukit",
+        "`jumlah_ayat`": "49",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "76"
+    },
+    {
+        "`index`": "53",
+        "`surah_indonesia`": "Surah An-Najm",
+        "`surah_arab`": "النّجْم",
+        "`arti`": "Bintang",
+        "`jumlah_ayat`": "62",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "23"
+    },
+    {
+        "`index`": "54",
+        "`surah_indonesia`": "Surah Al-Qamar",
+        "`surah_arab`": "القمر",
+        "`arti`": "Bulan",
+        "`jumlah_ayat`": "55",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "37"
+    },
+    {
+        "`index`": "55",
+        "`surah_indonesia`": "Surah Ar-Rahman",
+        "`surah_arab`": "الرّحْمن",
+        "`arti`": "Yang Maha Pemurah",
+        "`jumlah_ayat`": "78",
+        "`tempat_turun`": "Madinah & Mekkah",
+        "`urutan_pewahyuan`": "97"
+    },
+    {
+        "`index`": "56",
+        "`surah_indonesia`": "Surah Al-Waqi’ah",
+        "`surah_arab`": "الواقعه",
+        "`arti`": "Hari Kiamat",
+        "`jumlah_ayat`": "96",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "46"
+    },
+    {
+        "`index`": "57",
+        "`surah_indonesia`": "Surah Al-Hadid",
+        "`surah_arab`": "الحديد",
+        "`arti`": "Besi",
+        "`jumlah_ayat`": "29",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "94"
+    },
+    {
+        "`index`": "58",
+        "`surah_indonesia`": "Surah Al-Mujadilah",
+        "`surah_arab`": "المجادلة",
+        "`arti`": "Wanita yang mengajukan gugatan",
+        "`jumlah_ayat`": "22",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "105"
+    },
+    {
+        "`index`": "59",
+        "`surah_indonesia`": "Surah Al-Hasyr",
+        "`surah_arab`": "الحشْر",
+        "`arti`": "Pengusiran",
+        "`jumlah_ayat`": "24",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "101"
+    },
+    {
+        "`index`": "60",
+        "`surah_indonesia`": "Surah Al-Mumtahanah",
+        "`surah_arab`": "الممتحنة",
+        "`arti`": "Wanita yang diuji",
+        "`jumlah_ayat`": "13",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "91"
+    },
+    {
+        "`index`": "61",
+        "`surah_indonesia`": "Surah As-Saff",
+        "`surah_arab`": "الصّفّ",
+        "`arti`": "Satu barisan",
+        "`jumlah_ayat`": "14",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "109"
+    },
+    {
+        "`index`": "62",
+        "`surah_indonesia`": "Surah Al-Jumu’ah",
+        "`surah_arab`": "الجمعة",
+        "`arti`": "Hari Jum’at",
+        "`jumlah_ayat`": "11",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "110"
+    },
+    {
+        "`index`": "63",
+        "`surah_indonesia`": "Surah Al-Munafiqun",
+        "`surah_arab`": "المنافقون",
+        "`arti`": "Orang-orang yang munafik",
+        "`jumlah_ayat`": "11",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "104"
+    },
+    {
+        "`index`": "64",
+        "`surah_indonesia`": "Surah At-Tagabun",
+        "`surah_arab`": "التّغابن",
+        "`arti`": "Hari dinampakkan kesalahan-kesalahan",
+        "`jumlah_ayat`": "18",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "108"
+    },
+    {
+        "`index`": "65",
+        "`surah_indonesia`": "Surah At-Talaq",
+        "`surah_arab`": "الطّلاق",
+        "`arti`": "Talak",
+        "`jumlah_ayat`": "12",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "99"
+    },
+    {
+        "`index`": "66",
+        "`surah_indonesia`": "Surah At-Tahrim",
+        "`surah_arab`": "التّحريم",
+        "`arti`": "Mengharamkan",
+        "`jumlah_ayat`": "12",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "107"
+    },
+    {
+        "`index`": "67",
+        "`surah_indonesia`": "Surah Al-Mulk",
+        "`surah_arab`": "الملك",
+        "`arti`": "Kerajaan",
+        "`jumlah_ayat`": "30",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "77"
+    },
+    {
+        "`index`": "68",
+        "`surah_indonesia`": "Surah Al-Qalam",
+        "`surah_arab`": "القلم",
+        "`arti`": "Pena",
+        "`jumlah_ayat`": "52",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "2"
+    },
+    {
+        "`index`": "69",
+        "`surah_indonesia`": "Surah Al-Haqqah",
+        "`surah_arab`": "الحآقّة",
+        "`arti`": "Hari kiamat",
+        "`jumlah_ayat`": "52",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "78"
+    },
+    {
+        "`index`": "70",
+        "`surah_indonesia`": "Surah Al-Ma’arij",
+        "`surah_arab`": "المعارج",
+        "`arti`": "Tempat naik",
+        "`jumlah_ayat`": "44",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "79"
+    },
+    {
+        "`index`": "71",
+        "`surah_indonesia`": "Surah Nuh",
+        "`surah_arab`": "نوح",
+        "`arti`": "Nuh",
+        "`jumlah_ayat`": "28",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "71"
+    },
+    {
+        "`index`": "72",
+        "`surah_indonesia`": "Surah Al-Jinn",
+        "`surah_arab`": "الجنّ",
+        "`arti`": "Jin",
+        "`jumlah_ayat`": "28",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "40"
+    },
+    {
+        "`index`": "73",
+        "`surah_indonesia`": "Surah Al-Muzzammil",
+        "`surah_arab`": "المزمّل",
+        "`arti`": "Orang yang berselimut",
+        "`jumlah_ayat`": "20",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "3"
+    },
+    {
+        "`index`": "74",
+        "`surah_indonesia`": "Surah Al-Muddassir",
+        "`surah_arab`": "المدشّر",
+        "`arti`": "Orang yang berkemul",
+        "`jumlah_ayat`": "56",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "4"
+    },
+    {
+        "`index`": "75",
+        "`surah_indonesia`": "Surah Al-Qiyamah",
+        "`surah_arab`": "القيمة",
+        "`arti`": "Hari Kiamat",
+        "`jumlah_ayat`": "40",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "31"
+    },
+    {
+        "`index`": "76",
+        "`surah_indonesia`": "Surah Al-Insan",
+        "`surah_arab`": "الْاٍنسان",
+        "`arti`": "Manusia",
+        "`jumlah_ayat`": "31",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "98"
+    },
+    {
+        "`index`": "77",
+        "`surah_indonesia`": "Surah Al-Mursalat",
+        "`surah_arab`": "المرسلات",
+        "`arti`": "Malaikat-Malaikat Yang Diutus",
+        "`jumlah_ayat`": "50",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "33"
+    },
+    {
+        "`index`": "78",
+        "`surah_indonesia`": "Surah An-Naba’",
+        "`surah_arab`": "النّبا",
+        "`arti`": "Berita besar",
+        "`jumlah_ayat`": "40",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "80"
+    },
+    {
+        "`index`": "79",
+        "`surah_indonesia`": "Surah An-Nazi’at",
+        "`surah_arab`": "النّازعات",
+        "`arti`": "Malaikat-Malaikat Yang Mencabut",
+        "`jumlah_ayat`": "46",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "81"
+    },
+    {
+        "`index`": "80",
+        "`surah_indonesia`": "Surah `Abasa",
+        "`surah_arab`": "عبس",
+        "`arti`": "Ia Bermuka masam",
+        "`jumlah_ayat`": "42",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "24"
+    },
+    {
+        "`index`": "81",
+        "`surah_indonesia`": "Surah At-Takwir",
+        "`surah_arab`": "التّكوير",
+        "`arti`": "Menggulung",
+        "`jumlah_ayat`": "29",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "7"
+    },
+    {
+        "`index`": "82",
+        "`surah_indonesia`": "Surah Al-Infitar",
+        "`surah_arab`": "الانفطار",
+        "`arti`": "Terbelah",
+        "`jumlah_ayat`": "19",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "82"
+    },
+    {
+        "`index`": "83",
+        "`surah_indonesia`": "Surah Al-Tatfif",
+        "`surah_arab`": "المطفّفين",
+        "`arti`": "Orang-orang yang curang",
+        "`jumlah_ayat`": "36",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "86"
+    },
+    {
+        "`index`": "84",
+        "`surah_indonesia`": "Surah Al-Insyiqaq",
+        "`surah_arab`": "الانشقاق",
+        "`arti`": "Terbelah",
+        "`jumlah_ayat`": "25",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "83"
+    },
+    {
+        "`index`": "85",
+        "`surah_indonesia`": "Surah Al-Buruj",
+        "`surah_arab`": "البروج",
+        "`arti`": "Gugusan bintang",
+        "`jumlah_ayat`": "22",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "27"
+    },
+    {
+        "`index`": "86",
+        "`surah_indonesia`": "Surah At-Tariq",
+        "`surah_arab`": "الطّارق",
+        "`arti`": "Yang datang di malam hari",
+        "`jumlah_ayat`": "17",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "36"
+    },
+    {
+        "`index`": "87",
+        "`surah_indonesia`": "Surah Al-A’la",
+        "`surah_arab`": "الْأعلى",
+        "`arti`": "Yang paling tinggi",
+        "`jumlah_ayat`": "19",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "8"
+    },
+    {
+        "`index`": "88",
+        "`surah_indonesia`": "Surah Al-Gasyiyah",
+        "`surah_arab`": "الغاشية",
+        "`arti`": "Hari Pembalasan",
+        "`jumlah_ayat`": "26",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "68"
+    },
+    {
+        "`index`": "89",
+        "`surah_indonesia`": "Surah Al-Fajr",
+        "`surah_arab`": "الفجر",
+        "`arti`": "Fajar",
+        "`jumlah_ayat`": "30",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "10"
+    },
+    {
+        "`index`": "90",
+        "`surah_indonesia`": "Surah Al-Balad",
+        "`surah_arab`": "البلد",
+        "`arti`": "Negeri",
+        "`jumlah_ayat`": "20",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "35"
+    },
+    {
+        "`index`": "91",
+        "`surah_indonesia`": "Surah Asy-Syams",
+        "`surah_arab`": "الشّمس",
+        "`arti`": "Matahari",
+        "`jumlah_ayat`": "15",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "26"
+    },
+    {
+        "`index`": "92",
+        "`surah_indonesia`": "Surah Al-Lail",
+        "`surah_arab`": "الّيل",
+        "`arti`": "Malam",
+        "`jumlah_ayat`": "21",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "9"
+    },
+    {
+        "`index`": "93",
+        "`surah_indonesia`": "Surah Ad-Duha",
+        "`surah_arab`": "الضحى‎‎",
+        "`arti`": "Waktu matahari sepenggalahan naik (Dhuha)",
+        "`jumlah_ayat`": "11",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "11"
+    },
+    {
+        "`index`": "94",
+        "`surah_indonesia`": "Surah Al-Insyirah",
+        "`surah_arab`": "الانشراح‎‎",
+        "`arti`": "Melapangkan",
+        "`jumlah_ayat`": "8",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "12"
+    },
+    {
+        "`index`": "95",
+        "`surah_indonesia`": "Surah At-Tin",
+        "`surah_arab`": "التِّينِ",
+        "`arti`": "Buah Tin",
+        "`jumlah_ayat`": "8",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "28"
+    },
+    {
+        "`index`": "96",
+        "`surah_indonesia`": "Surah Al-`Alaq",
+        "`surah_arab`": "العَلَق",
+        "`arti`": "Segumpal Darah",
+        "`jumlah_ayat`": "19",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "1"
+    },
+    {
+        "`index`": "97",
+        "`surah_indonesia`": "Surah Al-Qadr",
+        "`surah_arab`": "الْقَدْرِ",
+        "`arti`": "Kemuliaan",
+        "`jumlah_ayat`": "5",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "25"
+    },
+    {
+        "`index`": "98",
+        "`surah_indonesia`": "Surah Al-Bayyinah",
+        "`surah_arab`": "الْبَيِّنَةُ",
+        "`arti`": "Pembuktian",
+        "`jumlah_ayat`": "8",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "100"
+    },
+    {
+        "`index`": "99",
+        "`surah_indonesia`": "Surah Az-Zalzalah",
+        "`surah_arab`": "الزلزلة‎‎",
+        "`arti`": "Kegoncangan",
+        "`jumlah_ayat`": "8",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "93"
+    },
+    {
+        "`index`": "100",
+        "`surah_indonesia`": "Surah Al-`Adiyat",
+        "`surah_arab`": "العاديات‎‎",
+        "`arti`": "Berlari kencang",
+        "`jumlah_ayat`": "11",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "14"
+    },
+    {
+        "`index`": "101",
+        "`surah_indonesia`": "Surah Al-Qari`ah",
+        "`surah_arab`": "القارعة‎‎",
+        "`arti`": "Hari Kiamat",
+        "`jumlah_ayat`": "11",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "30"
+    },
+    {
+        "`index`": "102",
+        "`surah_indonesia`": "Surah At-Takasur",
+        "`surah_arab`": "التكاثر‎‎",
+        "`arti`": "Bermegah-megahan",
+        "`jumlah_ayat`": "8",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "16"
+    },
+    {
+        "`index`": "103",
+        "`surah_indonesia`": "Surah Al-`Asr",
+        "`surah_arab`": "العصر",
+        "`arti`": "Masa/Waktu",
+        "`jumlah_ayat`": "3",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "13"
+    },
+    {
+        "`index`": "104",
+        "`surah_indonesia`": "Surah Al-Humazah",
+        "`surah_arab`": "الهُمَزة‎‎",
+        "`arti`": "Pengumpat",
+        "`jumlah_ayat`": "9",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "32"
+    },
+    {
+        "`index`": "105",
+        "`surah_indonesia`": "Surah Al-Fil",
+        "`surah_arab`": "الْفِيلِ",
+        "`arti`": "Gajah",
+        "`jumlah_ayat`": "5",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "19"
+    },
+    {
+        "`index`": "106",
+        "`surah_indonesia`": "Surah Quraisy",
+        "`surah_arab`": "قُرَيْشٍ",
+        "`arti`": "Suku Quraisy",
+        "`jumlah_ayat`": "4",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "29"
+    },
+    {
+        "`index`": "107",
+        "`surah_indonesia`": "Surah Al-Ma’un",
+        "`surah_arab`": "الْمَاعُونَ",
+        "`arti`": "Barang-barang yang berguna",
+        "`jumlah_ayat`": "7",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "17"
+    },
+    {
+        "`index`": "108",
+        "`surah_indonesia`": "Surah Al-Kausar",
+        "`surah_arab`": "الكوثر",
+        "`arti`": "Nikmat yang berlimpah",
+        "`jumlah_ayat`": "3",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "15"
+    },
+    {
+        "`index`": "109",
+        "`surah_indonesia`": "Surah Al-Kafirun",
+        "`surah_arab`": "الْكَافِرُونَ",
+        "`arti`": "Orang-orang kafir",
+        "`jumlah_ayat`": "6",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "18"
+    },
+    {
+        "`index`": "110",
+        "`surah_indonesia`": "Surah An-Nasr",
+        "`surah_arab`": "النصر‎‎",
+        "`arti`": "Pertolongan",
+        "`jumlah_ayat`": "3",
+        "`tempat_turun`": "Madinah",
+        "`urutan_pewahyuan`": "114"
+    },
+    {
+        "`index`": "111",
+        "`surah_indonesia`": "Surah Al-Lahab",
+        "`surah_arab`": "المسد‎‎",
+        "`arti`": "Gejolak Api/ Sabut",
+        "`jumlah_ayat`": "5",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "6"
+    },
+    {
+        "`index`": "112",
+        "`surah_indonesia`": "Surah Al-Ikhlas",
+        "`surah_arab`": "الإخلاص‎‎",
+        "`arti`": "Ikhlas",
+        "`jumlah_ayat`": "4",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "22"
+    },
+    {
+        "`index`": "113",
+        "`surah_indonesia`": "Surah Al-Falaq",
+        "`surah_arab`": "الْفَلَقِ",
+        "`arti`": "Waktu Subuh",
+        "`jumlah_ayat`": "5",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "20"
+    },
+    {
+        "`index`": "114",
+        "`surah_indonesia`": "Surah An-Nas",
+        "`surah_arab`": "النَّاسِ",
+        "`arti`": "Manusia",
+        "`jumlah_ayat`": "6",
+        "`tempat_turun`": "Mekkah",
+        "`urutan_pewahyuan`": "21"
+    }
+]
