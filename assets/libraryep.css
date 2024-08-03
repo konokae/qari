@@ -4,7 +4,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 .banner720x90 {
-    width: 720px;
+    width: 100%;
+    max-width: 720px;
     height: 90px;
     background: linear-gradient(90deg, #4A90E2, #9013FE);
     display: flex;
@@ -24,7 +25,6 @@
     margin-right: 15px;
 }
 .banner720x90 .headline {
-    margin-top: 10px;
     font-family: 'Anton', sans-serif;
     font-size: 20px;
     font-weight: bold;
@@ -53,7 +53,8 @@
 
 /* Banner 336x280 */
 .banner336x280 {
-    width: 336px;
+    width: 100%;
+    max-width: 336px;
     height: 280px;
     background: linear-gradient(135deg, #6D5BBA, #8D58BF, #B155B9);
     display: flex;
@@ -98,4 +99,34 @@
 }
 .banner336x280 .cta-icon {
     margin-left: 10px;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .banner720x90 {
+        flex-direction: column;
+        height: auto;
+        padding: 20px;
+        text-align: center;
+    }
+    .banner720x90 .content {
+        flex-direction: column;
+        margin-bottom: 15px;
+    }
+    .banner720x90 .icon {
+        margin-bottom: 10px;
+    }
+    .banner720x90 .cta {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .banner336x280 {
+        height: auto;
+        padding: 20px;
+    }
+    .banner336x280 .cta {
+        width: 100%;
+        justify-content: center;
+    }
 }
